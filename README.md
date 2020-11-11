@@ -22,3 +22,12 @@ My methodology was as follows:
 3) Cleaned data in R code (attached in .rmd above) to break and partition data for analysis.
 
 4) Analysis and final visualizations broken down by demographic, titles, and departments. 
+
+![Demographic Cuts](https://github.com/artwang31/COVID-19-Organization-Engagement-Pulse-Survey/blob/main/Demographic%20Cuts.png)
+
+![Title Cuts](https://github.com/artwang31/COVID-19-Organization-Engagement-Pulse-Survey/blob/main/Title%20Cuts.png)
+
+![Department Cuts](https://github.com/artwang31/COVID-19-Organization-Engagement-Pulse-Survey/blob/main/Department%20Cuts.png)
+
+![Department Demographic Cuts](https://github.com/artwang31/COVID-19-Organization-Engagement-Pulse-Survey/blob/main/Department%20Demographic%20Cuts.png)
+
