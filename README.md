@@ -6,18 +6,18 @@ My methodology was as follows:
 
 1) Engaged various departments and stakeholder groups to determine how we should survey our staff. 
     - Which questions would provide us the most meaningful feedback? 
-    - How should these questions be phrased?
+    - How should these questions be phrased? Quantitative vs Qualitative. 
     - What data output should the questions produce? Should they be open-ended reponse questions? Quantitative response questions? Discrete? Continuous? 
     - What level of granuliarity should this data analysis seek to provide?
     
-2) Implemented survey via Qualtrics to gather, mine, and procure data. Questions we decided on. 
+2) Implemented survey via Qualtrics to gather and procure the data. These were the questions we decided on. 
     a) My Company’s leadership has a clear plan of action.
     b) During this time, My Company cares about my well-being.
     c) I feel comfortable asking my manager for a flexible work arrangement during this time.
     d) I feel well-prepared to do my job.
     e) The leader of my team keeps me informed about what is going on.
     
-    * All questions were scaled from Strongly Disagree, Disagree, Neither Agree nor Disagree, Agree, Strongly Agree (scaled 1-5)
+    * All questions were scaled from Strongly Disagree, Disagree, Neither Agree nor Disagree, Agree, Strongly Agree (scaled 1-5). Then averaged for a single composite score. 
     
 3) Cleaned data in R code (attached in .rmd above) to break and partition data for analysis.
 
