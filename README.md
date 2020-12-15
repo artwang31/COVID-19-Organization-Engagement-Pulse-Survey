@@ -1,6 +1,12 @@
 # COVID-19-Organization-Engagement-Pulse-Survey
 
+** Personal and/or unique identifiers have been removed from all data **
+
+Goal and Purpose:
+
 The purpose of this survey and analysis was to provide senior leadership a granular understanding of staff sentiment regarding the organization's preparation and response to the COVID-19 pandemic. As the lead data analyst for this project, I had to decide how we wanted to engage our staff, what variables we would consider, and finally how we presented our data. 
+
+Methodology:
 
 My methodology was as follows:
 
