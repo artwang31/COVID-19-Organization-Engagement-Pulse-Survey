@@ -1,6 +1,6 @@
 # COVID-19-Organization-Engagement-Pulse-Survey
 
-** Personal and/or unique identifiers have been removed from all data **
+** PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA ** 
 
 Goal and Purpose:
 
