@@ -393,7 +393,7 @@ Covid.NS.Org.Health.Raw.Long %>%
 ```{r Cleaning_for_JobTitle}
 
 # Reading in CSV with JobTitles
-title_bands <- read.csv("AF Network Support SQL Pull.csv")
+title_bands <- read.csv("Title Support SQL Pull.csv")
 
 # Selecting Variables to Merge on
 title_bands <- title_bands %>%select(EmployeeId, JobTitle)
