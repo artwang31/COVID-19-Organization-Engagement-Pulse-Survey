@@ -1,12 +1,12 @@
 # COVID-19-Organization-Engagement-Pulse-Survey
 
-** PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA ** 
+**PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA** 
 
-Goal and Purpose:
+**Goal and Purpose:**
 
 The purpose of this survey and analysis was to provide senior leadership a granular understanding of staff sentiment regarding the organization's preparation and response to the COVID-19 pandemic. As the lead data analyst for this project, I had to decide how we wanted to engage our staff, what variables we would consider, and finally how we presented our data. 
 
-Methodology:
+**Methodology:**
 
 My methodology was as follows:
 
@@ -23,7 +23,7 @@ My methodology was as follows:
     d) I feel well-prepared to do my job.
     e) The leader of my team keeps me informed about what is going on.
     
-    * All questions were scaled from Strongly Disagree, Disagree, Neither Agree nor Disagree, Agree, Strongly Agree (scaled 1-5). Then averaged for a single composite score. 
+All questions were scaled from Strongly Disagree, Disagree, Neither Agree nor Disagree, Agree, Strongly Agree (scaled 1-5). Then averaged for a single composite score. 
     
 3) Cleaned data in R code (attached in .rmd above) to break and partition data for analysis.
 
